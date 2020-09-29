@@ -19,7 +19,7 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   syntax='proto3',
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
-  serialized_pb=b'\n\tRL1.proto\"\x1a\n\x07Message\x12\x0f\n\x07message\x18\x01 \x01(\t\"\"\n\x0fMessageResponse\x12\x0f\n\x07message\x18\x01 \x01(\t2C\n\x0eMessagePassing\x12\x31\n\x11GetServerResponse\x12\x08.Message\x1a\x10.MessageResponse\"\x00\x62\x06proto3'
+  serialized_pb=b'\n\tRL1.proto\"\x1e\n\x07Message\x12\x13\n\x0btestMessage\x18\x01 \x01(\t\"\'\n\x0fMessageResponse\x12\x14\n\x0ctestResponse\x18\x02 \x01(\t2C\n\x0eMessagePassing\x12\x31\n\x11GetServerResponse\x12\x08.Message\x1a\x10.MessageResponse\"\x00\x62\x06proto3'
 )
 
 
@@ -34,7 +34,7 @@ _MESSAGE = _descriptor.Descriptor(
   create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
-      name='message', full_name='Message.message', index=0,
+      name='testMessage', full_name='Message.testMessage', index=0,
       number=1, type=9, cpp_type=9, label=1,
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
@@ -53,7 +53,7 @@ _MESSAGE = _descriptor.Descriptor(
   oneofs=[
   ],
   serialized_start=13,
-  serialized_end=39,
+  serialized_end=43,
 )
 
 
@@ -66,8 +66,8 @@ _MESSAGERESPONSE = _descriptor.Descriptor(
   create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
-      name='message', full_name='MessageResponse.message', index=0,
-      number=1, type=9, cpp_type=9, label=1,
+      name='testResponse', full_name='MessageResponse.testResponse', index=0,
+      number=2, type=9, cpp_type=9, label=1,
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
@@ -84,8 +84,8 @@ _MESSAGERESPONSE = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=41,
-  serialized_end=75,
+  serialized_start=45,
+  serialized_end=84,
 )
 
 DESCRIPTOR.message_types_by_name['Message'] = _MESSAGE
@@ -115,8 +115,8 @@ _MESSAGEPASSING = _descriptor.ServiceDescriptor(
   index=0,
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
-  serialized_start=77,
-  serialized_end=144,
+  serialized_start=86,
+  serialized_end=153,
   methods=[
   _descriptor.MethodDescriptor(
     name='GetServerResponse',

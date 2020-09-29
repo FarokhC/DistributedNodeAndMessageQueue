@@ -8,9 +8,9 @@ service MessagePassing {
 }
 
 message Message{
-  int32 count = 1;
+  string testMessage = 1;
 }
 
 message MessageResponse{
-  int32 count = 1;
+  string testResponse = 2;
 }
