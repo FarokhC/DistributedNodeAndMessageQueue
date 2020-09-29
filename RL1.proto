@@ -1,0 +1,16 @@
+//to recompile this proto run
+//python -m grpc_tools.protoc -I./protos --python_out=. --grpc_python_out=. RL1.proto
+
+syntax = "proto3";
+
+service MessagePassing {
+    rpc GetServerResponse(Message) returns (MessageResponse) {}
+}
+
+message Message{
+  int32 count = 1;
+}
+
+message MessageResponse{
+  int32 count = 1;
+}
