@@ -15,24 +15,16 @@
 
 from concurrent import futures
 import logging
+
 import grpc
+
 import RL1_pb2
 import RL1_pb2_grpc
-# import time
-# import threading
 
-#inherit the RL1_pb2_grpc messagepassing service 
+
 class ServerC(RL1_pb2_grpc.MessagePassingServicer):
-    #how many messages it sends in a certain time 
-    # def __init__(self):
-    #     self.counter = 0
-    #     self.last_print_time = time.time()
-
     def GetServerResponse(self, request, context):
-        # self.counter += 1
-        print("Got request from client: " + str(request.testMessage))
-        response_message = "Got Request. This is a response message"
-        return RL1_pb2.MessageResponse(testResponse=response_message)
+        return RL1_pb2.MessageResponse(textMessage='Hello, %s!' % request.textMessage)
 
 
 def serve():
