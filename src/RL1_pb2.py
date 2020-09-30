@@ -19,7 +19,7 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   syntax='proto3',
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
-  serialized_pb=b'\n\tRL1.proto\"\x1e\n\x07Message\x12\x13\n\x0btextMessage\x18\x01 \x01(\t\"&\n\x0fMessageResponse\x12\x13\n\x0btextMessage\x18\x01 \x01(\t2C\n\x0eMessagePassing\x12\x31\n\x11GetServerResponse\x12\x08.Message\x1a\x10.MessageResponse\"\x00\x62\x06proto3'
+  serialized_pb=b'\n\tRL1.proto\"\x1e\n\x07Message\x12\x13\n\x0btextMessage\x18\x01 \x01(\t\"&\n\x0fMessageResponse\x12\x13\n\x0btextMessage\x18\x01 \x01(\t2x\n\x0eMessagePassing\x12\x33\n\x13PassMessageToServer\x12\x08.Message\x1a\x10.MessageResponse\"\x00\x12\x31\n\x11GetServerResponse\x12\x08.Message\x1a\x10.MessageResponse\"\x00\x62\x06proto3'
 )
 
 
@@ -116,12 +116,22 @@ _MESSAGEPASSING = _descriptor.ServiceDescriptor(
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
   serialized_start=85,
-  serialized_end=152,
+  serialized_end=205,
   methods=[
+  _descriptor.MethodDescriptor(
+    name='PassMessageToServer',
+    full_name='MessagePassing.PassMessageToServer',
+    index=0,
+    containing_service=None,
+    input_type=_MESSAGE,
+    output_type=_MESSAGERESPONSE,
+    serialized_options=None,
+    create_key=_descriptor._internal_create_key,
+  ),
   _descriptor.MethodDescriptor(
     name='GetServerResponse',
     full_name='MessagePassing.GetServerResponse',
-    index=0,
+    index=1,
     containing_service=None,
     input_type=_MESSAGE,
     output_type=_MESSAGERESPONSE,

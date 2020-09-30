@@ -14,6 +14,11 @@ class MessagePassingStub(object):
         Args:
             channel: A grpc.Channel.
         """
+        self.PassMessageToServer = channel.unary_unary(
+                '/MessagePassing/PassMessageToServer',
+                request_serializer=RL1__pb2.Message.SerializeToString,
+                response_deserializer=RL1__pb2.MessageResponse.FromString,
+                )
         self.GetServerResponse = channel.unary_unary(
                 '/MessagePassing/GetServerResponse',
                 request_serializer=RL1__pb2.Message.SerializeToString,
@@ -24,6 +29,12 @@ class MessagePassingStub(object):
 class MessagePassingServicer(object):
     """Missing associated documentation comment in .proto file."""
 
+    def PassMessageToServer(self, request, context):
+        """Missing associated documentation comment in .proto file."""
+        context.set_code(grpc.StatusCode.UNIMPLEMENTED)
+        context.set_details('Method not implemented!')
+        raise NotImplementedError('Method not implemented!')
+
     def GetServerResponse(self, request, context):
         """Missing associated documentation comment in .proto file."""
         context.set_code(grpc.StatusCode.UNIMPLEMENTED)
@@ -33,6 +44,11 @@ class MessagePassingServicer(object):
 
 def add_MessagePassingServicer_to_server(servicer, server):
     rpc_method_handlers = {
+            'PassMessageToServer': grpc.unary_unary_rpc_method_handler(
+                    servicer.PassMessageToServer,
+                    request_deserializer=RL1__pb2.Message.FromString,
+                    response_serializer=RL1__pb2.MessageResponse.SerializeToString,
+            ),
             'GetServerResponse': grpc.unary_unary_rpc_method_handler(
                     servicer.GetServerResponse,
                     request_deserializer=RL1__pb2.Message.FromString,
@@ -47,6 +63,23 @@ def add_MessagePassingServicer_to_server(servicer, server):
  # This class is part of an EXPERIMENTAL API.
 class MessagePassing(object):
     """Missing associated documentation comment in .proto file."""
+
+    @staticmethod
+    def PassMessageToServer(request,
+            target,
+            options=(),
+            channel_credentials=None,
+            call_credentials=None,
+            insecure=False,
+            compression=None,
+            wait_for_ready=None,
+            timeout=None,
+            metadata=None):
+        return grpc.experimental.unary_unary(request, target, '/MessagePassing/PassMessageToServer',
+            RL1__pb2.Message.SerializeToString,
+            RL1__pb2.MessageResponse.FromString,
+            options, channel_credentials,
+            insecure, call_credentials, compression, wait_for_ready, timeout, metadata)
 
     @staticmethod
     def GetServerResponse(request,
@@ -64,4 +97,3 @@ class MessagePassing(object):
             RL1__pb2.MessageResponse.FromString,
             options, channel_credentials,
             insecure, call_credentials, compression, wait_for_ready, timeout, metadata)
-
