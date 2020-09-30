@@ -12,7 +12,7 @@
 
 * `pip install grpcio-tools`
 
-* `python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. RL1.proto`
+* If you have made changes to the proto file (RL1.proto), run `python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. RL1.proto` to recompile
 
 ## Run the code
 
