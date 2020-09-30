@@ -18,8 +18,10 @@
 
 * cd into src/
 
-* Start the server first using the command, `python server.py`
+* Start the server first using the command, `python serverC.py`
 
-* Next, start the client server using the command, `python client.py`
+* Start the middleman, B, using the command, `python middlemanB.py`
 
-* You will recieve a response from the server on the client terminal window
+* Next, start the client server using the command, `python clientA.py`
+
+* You will see that the textMessage specified in clientA.py's code will be passed to middlemanB.py, and printed. The message will then be passed to serverC.py and printed there too.

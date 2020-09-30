@@ -4,6 +4,7 @@
 syntax = "proto3";
 
 service MessagePassing {
+  rpc PassMessageToServer (Message) returns (MessageResponse) {}
   rpc GetServerResponse (Message) returns (MessageResponse) {}
 }
 
