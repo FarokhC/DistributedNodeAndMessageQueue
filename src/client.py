@@ -26,11 +26,10 @@ def run():
     # NOTE(gRPC Python Team): .close() is possible on a channel and should be
     # used in circumstances in which the with statement does not fit the needs
     # of the code.
-    with grpc.insecure_channel('localhost:50051') as channel:
-        stub = RL1_pb2_grpc.MessagePassingStub(channel)
-        response = stub.GetServerResponse(RL1_pb2.Message(testMessage="hi"))
-    print("Response:" + str(response))
-    print("Client Message received: " + response.testResponse)
+    channel = grpc.insecure_channel('localhost:50051')
+    stub = RL1_pb2_grpc.MessagePassingStub(channel)
+    response = stub.GetServerResponse(RL1_pb2.Message(textMessage='you'))
+    print("Greeter client received: " + response.textMessage)
 
 
 if __name__ == '__main__':
