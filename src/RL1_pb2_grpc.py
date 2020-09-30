@@ -64,3 +64,4 @@ class MessagePassing(object):
             RL1__pb2.MessageResponse.FromString,
             options, channel_credentials,
             insecure, call_credentials, compression, wait_for_ready, timeout, metadata)
+
