@@ -9,8 +9,11 @@ service MessagePassing {
 
 message Message{
   string testMessage = 1;
+  //client will send a num, and server will increment num and reply it back with MessageResponse
+  //int32 count = 1;
 }
 
 message MessageResponse{
   string testResponse = 2;
+  //int32 count = 1;
 }
