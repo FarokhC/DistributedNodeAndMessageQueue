@@ -19,7 +19,7 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   syntax='proto3',
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
-  serialized_pb=b'\n\tRL1.proto\"\x1e\n\x07Message\x12\x13\n\x0btestMessage\x18\x01 \x01(\t\"\'\n\x0fMessageResponse\x12\x14\n\x0ctestResponse\x18\x02 \x01(\t2C\n\x0eMessagePassing\x12\x31\n\x11GetServerResponse\x12\x08.Message\x1a\x10.MessageResponse\"\x00\x62\x06proto3'
+  serialized_pb=b'\n\tRL1.proto\"\x1e\n\x07Message\x12\x13\n\x0btextMessage\x18\x01 \x01(\t\"&\n\x0fMessageResponse\x12\x13\n\x0btextMessage\x18\x01 \x01(\t2C\n\x0eMessagePassing\x12\x31\n\x11GetServerResponse\x12\x08.Message\x1a\x10.MessageResponse\"\x00\x62\x06proto3'
 )
 
 
@@ -34,7 +34,7 @@ _MESSAGE = _descriptor.Descriptor(
   create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
-      name='testMessage', full_name='Message.testMessage', index=0,
+      name='textMessage', full_name='Message.textMessage', index=0,
       number=1, type=9, cpp_type=9, label=1,
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
@@ -66,8 +66,8 @@ _MESSAGERESPONSE = _descriptor.Descriptor(
   create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
-      name='testResponse', full_name='MessageResponse.testResponse', index=0,
-      number=2, type=9, cpp_type=9, label=1,
+      name='textMessage', full_name='MessageResponse.textMessage', index=0,
+      number=1, type=9, cpp_type=9, label=1,
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
@@ -85,7 +85,7 @@ _MESSAGERESPONSE = _descriptor.Descriptor(
   oneofs=[
   ],
   serialized_start=45,
-  serialized_end=84,
+  serialized_end=83,
 )
 
 DESCRIPTOR.message_types_by_name['Message'] = _MESSAGE
@@ -115,8 +115,8 @@ _MESSAGEPASSING = _descriptor.ServiceDescriptor(
   index=0,
   serialized_options=None,
   create_key=_descriptor._internal_create_key,
-  serialized_start=86,
-  serialized_end=153,
+  serialized_start=85,
+  serialized_end=152,
   methods=[
   _descriptor.MethodDescriptor(
     name='GetServerResponse',
