@@ -1,4 +1,4 @@
-# DistributedNodeAndMessageQueue
+# Distributed Nodes And Messaging Queue
 
 ## Prerequisites
  
