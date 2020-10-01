@@ -1,5 +1,4 @@
-
-
+# A FIFO Message Queue
 class MessageQueue:
     queueContents = []
     def printQueueContents(self):
@@ -9,4 +8,10 @@ class MessageQueue:
         self.queueContents.append(msg)
 
     def popFirstMessageFromQueue(self):
-        return self.queueContents.pop(0)
+        if(len(self.queueContents) > 0):
+            return self.queueContents.pop(0)
+        else:
+            raise Exception("MessageQueue is empty")
+
+    def getQueueSize(self):
+        return len(self.queueContents)
