@@ -8,7 +8,7 @@ class ServerC(RL1_pb2_grpc.MessagePassingServicer):
     def GetServerResponse(self, request, context):
         receivedMessage = request.textMessage
         print("Server C received message: " + receivedMessage)
-        return RL1_pb2.MessageResponse(textMessage='Hello, %s!' % receivedMessage)
+        return RL1_pb2.MessageResponse(textMessage='ServerC successfully received message: ' + receivedMessage)
 
 def serve():
     server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
