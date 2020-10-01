@@ -1,4 +1,4 @@
-# CMPE275_RL1
+# DistributedNodeAndMessageQueue
 
 ## Prerequisites
  
