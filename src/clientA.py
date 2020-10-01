@@ -4,6 +4,10 @@ import grpc
 import RL1_pb2
 import RL1_pb2_grpc
 
+# TODO: Create multiple instances of ClientA and have them send
+# messages to the message queue all at once. Then have the message
+# queue send the data to single instance C
+
 def sendMessageToServerC():
     channel = grpc.insecure_channel('localhost:50052')
     stub = RL1_pb2_grpc.MessagePassingStub(channel)
