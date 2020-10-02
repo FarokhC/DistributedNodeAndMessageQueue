@@ -15,10 +15,6 @@ threads = []
 threadLimit = threading.Semaphore(MAX_THREAD_COUNT)
 address = 'localhost:50051'
 
-# TODO: Create multiple instances of ClientA and have them send
-# messages to the message queue all at once. Then have the message
-# queue send the data to single instance C
-
 def sendMessage(threadId, address):
     global threadCount, totalCount
     threadLimit.acquire()
@@ -33,7 +29,6 @@ def sendMessage(threadId, address):
     elif("50051" in address):
         response = stub.PassMessageToServer(RL1_pb2.Message(textMessage="Hello World! " + str(threadId)))
     print("Greeter client received: " + response.textMessage)
-    # threadCount = threadCount - 1
     threadLimit.release()
     threadCount = threadCount - 1
     print("thread count: " + str(threadCount))
@@ -60,4 +55,4 @@ if __name__ == '__main__':
 
     endTime = time.time()
     totalTime = endTime - startTime
-    print("Total Client Run Time: {} seconds".format(str(totalTime)))
+    print("Total Client Message Transfer Run Time: {} seconds".format(str(totalTime)))
