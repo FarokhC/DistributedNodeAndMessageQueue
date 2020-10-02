@@ -30,7 +30,7 @@ class MiddleManB(RL1_pb2_grpc.MessagePassingServicer):
 
 
 def serve():
-    server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
+    server = grpc.server(futures.ThreadPoolExecutor(max_workers=1))
     RL1_pb2_grpc.add_MessagePassingServicer_to_server(MiddleManB(), server)
     server.add_insecure_port('[::]:50051')
     server.start()
