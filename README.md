@@ -26,7 +26,7 @@
 
 * Next, start the client server using the command, `python -m cProfile clientA.py > client_output.txt`
 
-* To monitor elapsed time and memory consumption, run clientA.py, `python -m cProfile clientA.py > cprofile_output.txt` and `python -m memory_profiler clientA.py > memory_output.txt`. Open cprofile_output.txt and memory_output.txt to see results.
+* To monitor elapsed time and memory consumption for server, add `@profile` the line before functions in run serverC.py. Then run commands, `python -m cProfile serverC.py > cprofile_output.txt` and `python -m memory_profiler serverC.py > memory_output.txt`. Open cprofile_output.txt and memory_output.txt to see results.
 
 * You will see that the textMessage specified in clientA.py's code will be passed to middlemanB.py, and printed. The message will then be passed to serverC.py and printed there too.
 
