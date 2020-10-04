@@ -5,6 +5,7 @@ import RL1_pb2
 import RL1_pb2_grpc
 import utilities
 import time
+from memory_profiler import profile
 
 count = 0
 startTime = None
@@ -12,6 +13,7 @@ endTime = None
 totalTime = None
 
 class ServerC(RL1_pb2_grpc.MessagePassingServicer):
+    @profile
     def GetServerResponse(self, request, context):
         global count, startTime, endTime, totalTime
         if(count == 0):
@@ -27,6 +29,7 @@ class ServerC(RL1_pb2_grpc.MessagePassingServicer):
             print("Messages per second: " + str(messagesPerSecond))
         return RL1_pb2.MessageResponse(textMessage='ServerC successfully received message: ' + receivedMessage)
 
+@profile
 def serve():
     server = grpc.server(futures.ThreadPoolExecutor(max_workers=1))
     RL1_pb2_grpc.add_MessagePassingServicer_to_server(ServerC(), server)
