@@ -1,0 +1,14 @@
+Filename: middlemanB.py
+
+Line #    Mem usage    Increment   Line Contents
+================================================
+    41   23.105 MiB   23.105 MiB   @profile
+    42                             def emptyMessageQueue():
+    43                                 while(True):
+    44                                     # print('in loop')
+    45   23.125 MiB    0.020 MiB           if(messageQ.getQueueSize() > 0):
+    46                                         msg = messageQ.popFirstMessageFromQueue()
+    47                                         stub = RL1_pb2_grpc.MessagePassingStub(msg[CHANNEL])
+    48                                         messageQ.printQueueContents()
+    49                                         response = stub.GetServerResponse(RL1_pb2.Message(textMessage=msg[MESSAGE]))
+    50                                         print("done")

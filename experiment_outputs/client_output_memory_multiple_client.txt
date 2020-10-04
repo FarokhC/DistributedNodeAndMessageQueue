@@ -1,0 +1,4025 @@
+total count: 1
+thread count: 1
+total count: 2
+thread count: 2
+total count: 3
+thread count: 3
+total count: 4
+thread count: 4
+total count: 5
+thread count: 5
+total count: 6
+thread count: 6
+total count: 7
+thread count: 7
+total count: 8
+thread count: 8
+total count: 9
+thread count: 9
+total count: 10
+thread count: 10
+total count: 11
+thread count: 11
+total count: 12
+thread count: 12
+total count: 13
+thread count: 13
+total count: 14
+thread count: 14
+total count: 15
+thread count: 15
+total count: 16
+thread count: 16
+total count: 17
+thread count: 17
+total count: 18
+thread count: 18
+total count: 19
+thread count: 19
+total count: 20
+thread count: 20
+total count: 21
+thread count: 21
+total count: 22
+thread count: 22
+total count: 23
+thread count: 23
+total count: 24
+thread count: 24
+total count: 25
+thread count: 25
+total count: 26
+thread count: 26
+total count: 27
+thread count: 27
+total count: 28
+thread count: 28
+total count: 29
+thread count: 29
+total count: 30
+thread count: 30
+total count: 31
+thread count: 31
+total count: 32
+thread count: 32
+total count: 33
+thread count: 33
+total count: 34
+thread count: 34
+total count: 35
+thread count: 35
+total count: 36
+thread count: 36
+total count: 37
+thread count: 37
+total count: 38
+thread count: 38
+total count: 39
+thread count: 39
+total count: 40
+thread count: 40
+total count: 41
+thread count: 41
+total count: 42
+thread count: 42
+total count: 43
+thread count: 43
+total count: 44
+thread count: 44
+total count: 45
+thread count: 45
+total count: 46
+thread count: 46
+total count: 47
+thread count: 47
+total count: 48
+thread count: 48
+total count: 49
+thread count: 49
+total count: 50
+thread count: 50
+total count: 51
+thread count: 51
+total count: 52
+thread count: 52
+total count: 53
+thread count: 53
+total count: 54
+thread count: 54
+total count: 55
+thread count: 55
+total count: 56
+thread count: 56
+total count: 57
+thread count: 57
+total count: 58
+thread count: 58
+total count: 59
+thread count: 59
+total count: 60
+thread count: 60
+total count: 61
+thread count: 61
+total count: 62
+thread count: 62
+total count: 63
+thread count: 63
+total count: 64
+thread count: 64
+total count: 65
+thread count: 65
+total count: 66
+thread count: 66
+total count: 67
+thread count: 67
+total count: 68
+thread count: 68
+total count: 69
+thread count: 69
+total count: 70
+thread count: 70
+total count: 71
+thread count: 71
+total count: 72
+thread count: 72
+total count: 73
+thread count: 73
+total count: 74
+thread count: 74
+total count: 75
+thread count: 75
+total count: 76
+thread count: 76
+total count: 77
+thread count: 77
+total count: 78
+thread count: 78
+total count: 79
+thread count: 79
+total count: 80
+thread count: 80
+total count: 81
+thread count: 81
+total count: 82
+thread count: 82
+total count: 83
+thread count: 83
+total count: 84
+thread count: 84
+total count: 85
+thread count: 85
+total count: 86
+thread count: 86
+total count: 87
+thread count: 87
+total count: 88
+thread count: 88
+total count: 89
+thread count: 89
+total count: 90
+thread count: 90
+total count: 91
+thread count: 91
+total count: 92
+thread count: 92
+total count: 93
+thread count: 93
+total count: 94
+thread count: 94
+total count: 95
+thread count: 95
+total count: 96
+thread count: 96
+total count: 97
+thread count: 97
+total count: 98
+thread count: 98
+total count: 99
+thread count: 99
+total count: 100
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 101
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 102
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+Greeter client received: Node B received message
+thread count: 98
+Greeter client received: Node B received message
+thread count: 97
+total count: 103
+thread count: 98
+total count: 104
+thread count: 99
+total count: 105
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 106
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 107
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 108
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 109
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 110
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 111
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 112
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 113
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 114
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 115
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 116
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 117
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 118
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 119
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 120
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 121
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 122
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 123
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 124
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 125
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 126
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 127
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 128
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 129
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 130
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 131
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 132
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 133
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 134
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 135
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 136
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 137
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 138
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 139
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 140
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 141
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 142
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 143
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 144
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 145
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 146
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 147
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 148
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99total count: 149
+thread count: 100
+
+Greeter client received: Node B received message
+thread count: 99
+total count: 150
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 151
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 152
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 153
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 154
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 155
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 156
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 157
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 158
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 159
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 160
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 161
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 162
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 163
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 164
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 165
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 166
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 167
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 168
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 169
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 170
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 171
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 172
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 173
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 174
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 175
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 176
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 177
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 178
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 179
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 180
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 181
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 182
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 183
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 184
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 185
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 186
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 187
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 188
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 189
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 190
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 191
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 192
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 193
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 194
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 195
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 196
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 197
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 198
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 199
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 200
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 201
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 202
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 203
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 204
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 205
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 206
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 207
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 208
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 209
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 210
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 211
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 212
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 213
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 214
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 215
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 216
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 217
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 218
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 219
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 220
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 221
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 222
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 223
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 224
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 225
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 226
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 227
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 228
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 229
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 230
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 231
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 232
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 233
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 234
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 235
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 236
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 237
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 238
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 239
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 240
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 241
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 242
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 243
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 244
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 245
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 246
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 247
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 248
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 249
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 250
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 251
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 252
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 253
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 254
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 255
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 256
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 257
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 258
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 259
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 260
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 261
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 262
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 263
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 264
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 265
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 266
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 267
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 268
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 269
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 270
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 271
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 272
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 273
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 274
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 275
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 276
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 277
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 278
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 279
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 280
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 281
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 282
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 283
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 284
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 285
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 286
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 287
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 288
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 289
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 290
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 291
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 292
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 293
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 294
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 295
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 296
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 297
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 298
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 299
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 300
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 301
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 302
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 303
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 304
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 305
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 306
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 307
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 308
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 309
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 310
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 311
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 312
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 313
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 314
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 315
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 316
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 317
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 318
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 319
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 320
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 321
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 322
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 323
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 324
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 325
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 326
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 327
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 328
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 329
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 330
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 331
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 332
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 333
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 334
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 335
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 336
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 337
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 338
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 339
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 340
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 341
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 342
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 343
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 344
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 345
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 346
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 347
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 348
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 349
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 350
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 351
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 352
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 353
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 354
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 355
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 356
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 357
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 358
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 359
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 360
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 361
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 362
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 363
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 364
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 365
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 366
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 367
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 368
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 369
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 370
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 371
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 372
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 373
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 374
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 375
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 376
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 377
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 378
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 379
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 380
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 381
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 382
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 383
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 384
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 385
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 386
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 387
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 388
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 389
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 390
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 391
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 392
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 393
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 394
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 395
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 396
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 397
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 398
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 399
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 400
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 401
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 402
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 403
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 404
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 405
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 406
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 407
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 408
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 409
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 410
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 411
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 412
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 413
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 414
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 415
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 416
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 417
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 418
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 419
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 420
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 421
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 422
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 423
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 424
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 425
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 426
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 427
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 428
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 429
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 430
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 431
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 432
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 433
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 434
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 435
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 436
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 437
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 438
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 439
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 440
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 441
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 442
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 443
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 444
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 445
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 446
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 447
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 448
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 449
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 450
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 451
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 452
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 453
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 454
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 455
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 456
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 457
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 458
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 459
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 460
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 461
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 462
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 463
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 464
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 465
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 466
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 467
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 468
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 469
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 470
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 471
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 472
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 473
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99total count: 474
+thread count: 100
+
+Greeter client received: Node B received message
+thread count: 99
+total count: 475
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 476
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 477
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 478
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 479
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 480
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 481
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 482
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 483
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 484
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 485
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 486
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 487
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 488
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 489
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 490
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 491
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 492
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 493
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 494
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 495
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 496
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 497
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 498
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 499
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 500
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 501
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 502
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 503
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 504
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 505
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 506
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 507
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 508
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 509
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 510
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 511
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 512
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 513
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 514
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 515
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 516
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 517
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 518
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 519
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 520
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 521
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 522
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 523
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 524
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 525
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 526
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 527
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 528
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 529
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 530
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 531
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 532
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 533
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 534
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 535
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 536
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 537
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 538
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 539
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 540
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 541
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 542
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 543
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 544
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 545
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 546
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 547
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 548
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 549
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 550
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 551
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 552
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 553
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 554
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 555
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 556
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 557
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 558
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 559
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 560
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 561
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 562
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 563
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 564
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 565
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 566
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 567
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 568
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 569
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 570
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 571
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 572
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 573
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 574
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 575
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 576
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 577
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 578
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 579
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 580
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 581
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 582
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 583
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 584
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 585
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 586
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 587
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 588
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 589
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 590
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 591
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 592
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 593
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 594
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 595
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 596
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 597
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 598
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 599
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 600
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 601
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 602
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 603
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 604
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 605
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 606
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 607
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 608
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 609
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 610
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 611
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 612
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 613
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 614
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 615
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 616
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 617
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 618
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 619
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 620
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 621
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 622
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 623
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 624
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 625
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 626
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 627
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 628
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 629
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 630
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 631
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 632
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 633
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 634
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 635
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 636
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 637
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 638
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 639
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 640
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 641
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 642
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 643
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 644
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 645
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 646
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 647
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 648
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 649
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 650
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 651
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 652
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 653
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 654
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 655
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 656
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 657
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 658
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 659
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 660
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 661
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 662
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 663
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 664
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 665
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 666
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 667
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 668
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 669
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 670
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 671
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 672
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 673
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 674
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 675
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 676
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 677
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 678
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 679
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 680
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 681
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 682
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 683
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 684
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 685
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 686
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 687
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 688
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 689
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 690
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 691
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 692
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 693
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 694
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 695
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 696
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 697
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 698
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 699
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 700
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 701
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 702
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 703
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 704
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 705
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 706
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 707
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 708
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 709
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 710
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 711
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 712
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 713
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 714
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 715
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 716
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 717
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 718
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 719
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 720
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 721
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 722
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 723
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 724
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 725
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 726
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 727
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 728
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 729
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 730
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 731
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 732
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 733
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 734
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 735
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 736
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 737
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 738
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 739
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 740
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 741
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 742
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 743
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 744
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 745
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 746
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 747
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 748
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 749
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 750
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 751
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 752
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 753
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 754
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 755
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 756
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 757
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 758
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 759
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 760
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 761
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 762
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 763
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 764
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 765
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 766
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 767
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 768
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 769
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 770
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 771
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 772
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 773
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 774
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 775
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 776
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 777
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 778
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 779
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 780
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 781
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 782
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 783
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 784
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 785
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 786
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 787
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 788
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 789
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 790
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 791
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 792
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 793
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 794
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 795
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 796
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 797
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 798
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99total count: 799
+thread count: 100
+
+Greeter client received: Node B received message
+thread count: 99
+total count: 800
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 801
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 802
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 803
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 804
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 805
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 806
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 807
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 808
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 809
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 810
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 811
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 812
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 813
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 814
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 815
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 816
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 817
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 818
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 819
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 820
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 821
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 822
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 823
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 824
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 825
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 826
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 827
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 828
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 829
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 830
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 831
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 832
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 833
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 834
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 835
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 836
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 837
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 838
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 839
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 840
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 841
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 842
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 843
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 844
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 845
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 846
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 847
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 848
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 849
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 850
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 851
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 852
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 853
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 854
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 855
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 856
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 857
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 858
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 859
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 860
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 861
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 862
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 863
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 864
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 865
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 866
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 867
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 868
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 869
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 870
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 871
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 872
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 873
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 874
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 875
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 876
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 877
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 878
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 879
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 880
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 881
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 882
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 883
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 884
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 885
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 886
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 887
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 888
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 889
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 890
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 891
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 892
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 893
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 894
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 895
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 896
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 897
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 898
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 899
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 900
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 901
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 902
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 903
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 904
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 905
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 906
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 907
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 908
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 909
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 910
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 911
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 912
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 913
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 914
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 915
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 916
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 917
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 918
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 919
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 920
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 921
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 922
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 923
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 924
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 925
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 926
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 927
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 928
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 929
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 930
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 931
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 932
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 933
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 934
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 935
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 936
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 937
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 938
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 939
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 940
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 941
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 942
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 943
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 944
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 945
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 946
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 947
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 948
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 949
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 950
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 951
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 952
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 953
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 954
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 955
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 956
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 957
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 958
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 959
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 960
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 961
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 962
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 963
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 964
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 965
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 966
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 967
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 968
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 969
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 970
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 971
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 972
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 973
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 974
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 975
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 976
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 977
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 978
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 979
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 980
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 981
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 982
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 983
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 984
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 985
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 986
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 987
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 988
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 989
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 990
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 991
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 992
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 993
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 994
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 995
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 996
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 997
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 998
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 999
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+total count: 1000
+thread count: 100
+Greeter client received: Node B received message
+thread count: 99
+Greeter client received: Node B received message
+thread count: 98
+Greeter client received: Node B received message
+thread count: 97
+Greeter client received: Node B received message
+thread count: 96
+Greeter client received: Node B received message
+thread count: 95
+Greeter client received: Node B received message
+thread count: 94
+Greeter client received: Node B received message
+thread count: 93
+Greeter client received: Node B received message
+thread count: 92
+Greeter client received: Node B received message
+thread count: 91
+Greeter client received: Node B received message
+thread count: 90
+Greeter client received: Node B received message
+thread count: 89
+Greeter client received: Node B received message
+thread count: 88
+Greeter client received: Node B received message
+thread count: 87
+Greeter client received: Node B received message
+thread count: 86
+Greeter client received: Node B received message
+thread count: 85
+Greeter client received: Node B received message
+thread count: 84
+Greeter client received: Node B received message
+thread count: 83
+Greeter client received: Node B received message
+thread count: 82
+Greeter client received: Node B received message
+thread count: 81
+Greeter client received: Node B received message
+thread count: 80
+Greeter client received: Node B received message
+thread count: 79
+Greeter client received: Node B received message
+thread count: 78
+Greeter client received: Node B received message
+thread count: 77
+Greeter client received: Node B received message
+thread count: 76
+Greeter client received: Node B received message
+thread count: 75
+Greeter client received: Node B received message
+thread count: 74
+Greeter client received: Node B received message
+thread count: 73
+Greeter client received: Node B received message
+thread count: 72
+Greeter client received: Node B received message
+thread count: 71
+Greeter client received: Node B received message
+thread count: 70
+Greeter client received: Node B received message
+thread count: 69
+Greeter client received: Node B received message
+thread count: 68
+Greeter client received: Node B received message
+thread count: 67
+Greeter client received: Node B received message
+thread count: 66
+Greeter client received: Node B received message
+thread count: 65
+Greeter client received: Node B received message
+thread count: 64
+Greeter client received: Node B received message
+thread count: 63
+Greeter client received: Node B received message
+thread count: 62
+Greeter client received: Node B received message
+thread count: 61
+Greeter client received: Node B received message
+thread count: 60
+Greeter client received: Node B received message
+thread count: 59
+Greeter client received: Node B received message
+thread count: 58
+Greeter client received: Node B received message
+thread count: 57
+Greeter client received: Node B received message
+thread count: 56
+Greeter client received: Node B received message
+thread count: 55
+Greeter client received: Node B received message
+thread count: 54
+Greeter client received: Node B received message
+thread count: 53
+Greeter client received: Node B received message
+thread count: 52
+Greeter client received: Node B received message
+thread count: 51
+Greeter client received: Node B received message
+thread count: 50
+Greeter client received: Node B received message
+thread count: 49
+Greeter client received: Node B received message
+thread count: 48
+Greeter client received: Node B received message
+thread count: 47
+Greeter client received: Node B received message
+thread count: 46
+Greeter client received: Node B received message
+thread count: 45
+Greeter client received: Node B received message
+thread count: 44
+Greeter client received: Node B received message
+thread count: 43
+Greeter client received: Node B received message
+thread count: 42
+Greeter client received: Node B received message
+thread count: 41
+Greeter client received: Node B received message
+thread count: 40
+Greeter client received: Node B received message
+thread count: 39
+Greeter client received: Node B received message
+thread count: 38
+Greeter client received: Node B received message
+thread count: 37
+Greeter client received: Node B received message
+thread count: 36
+Greeter client received: Node B received message
+thread count: 35
+Greeter client received: Node B received message
+thread count: 34
+Greeter client received: Node B received message
+thread count: 33
+Greeter client received: Node B received message
+thread count: 32
+Greeter client received: Node B received message
+thread count: 31
+Greeter client received: Node B received message
+thread count: 30
+Greeter client received: Node B received message
+thread count: 29
+Greeter client received: Node B received message
+thread count: 28
+Greeter client received: Node B received message
+thread count: 27
+Greeter client received: Node B received message
+thread count: 26
+Greeter client received: Node B received message
+thread count: 25
+Greeter client received: Node B received message
+thread count: 24
+Greeter client received: Node B received message
+thread count: 23
+Greeter client received: Node B received message
+thread count: 22
+Greeter client received: Node B received message
+thread count: 21
+Greeter client received: Node B received message
+thread count: 20
+Greeter client received: Node B received message
+thread count: 19
+Greeter client received: Node B received message
+thread count: 18
+Greeter client received: Node B received message
+thread count: 17
+Greeter client received: Node B received message
+thread count: 16
+Greeter client received: Node B received message
+thread count: 15
+Greeter client received: Node B received message
+thread count: 14
+Greeter client received: Node B received message
+thread count: 13
+Greeter client received: Node B received message
+thread count: 12
+Greeter client received: Node B received message
+thread count: 11
+Greeter client received: Node B received message
+thread count: 10
+Greeter client received: Node B received message
+thread count: 9
+Greeter client received: Node B received message
+thread count: 8
+Greeter client received: Node B received message
+thread count: 7
+Greeter client received: Node B received message
+thread count: 6
+Greeter client received: Node B received message
+thread count: 5
+Greeter client received: Node B received message
+thread count: 4
+Greeter client received: Node B received message
+thread count: 3
+Greeter client received: Node B received message
+thread count: 2
+Greeter client received: Node B received message
+thread count: 1
+Greeter client received: Node B received message
+thread count: 0
+Total Client Message Transfer Run Time: 3.0812089443206787 seconds
+Filename: clientA.py
+
+Line #    Mem usage    Increment   Line Contents
+================================================
+    18   25.234 MiB   25.234 MiB   @profile
+    19                             def sendMessage(threadId, address):
+    20                                 global threadCount, totalCount
+    21   25.234 MiB    0.000 MiB       threadLimit.acquire()
+    22   25.234 MiB    0.000 MiB       totalCount = totalCount + 1
+    23   25.234 MiB    0.000 MiB       threadCount = threadCount + 1
+    24   25.234 MiB    0.000 MiB       print("total count: " + str(totalCount))
+    25   25.234 MiB    0.000 MiB       print("thread count: " + str(threadCount))
+    26   26.094 MiB    0.859 MiB       channel = grpc.insecure_channel(address)
+    27   26.102 MiB    0.008 MiB       stub = RL1_pb2_grpc.MessagePassingStub(channel)
+    28   26.102 MiB    0.000 MiB       if("50052" in address):
+    29                                     response = stub.GetServerResponse(RL1_pb2.Message(textMessage="Hello World! " + str(threadId)))
+    30   26.102 MiB    0.000 MiB       elif("50051" in address):
+    31   47.258 MiB   21.156 MiB           response = stub.PassMessageToServer(RL1_pb2.Message(textMessage="Hello World! " + str(threadId)))
+    32   47.281 MiB    0.023 MiB       print("Greeter client received: " + response.textMessage)
+    33   47.281 MiB    0.000 MiB       threadLimit.release()
+    34   47.281 MiB    0.000 MiB       threadCount = threadCount - 1
+    35   47.281 MiB    0.000 MiB       print("thread count: " + str(threadCount))
+
+

@@ -23,6 +23,8 @@ class ServerC(RL1_pb2_grpc.MessagePassingServicer):
             endTime = time.time()
             totalTime = endTime - startTime
             print("Total Message Transfer Run Time: {} seconds".format(str(totalTime)))
+            messagesPerSecond = utilities.getNumberOfClients() / totalTime
+            print("Messages per second: " + str(messagesPerSecond))
         return RL1_pb2.MessageResponse(textMessage='ServerC successfully received message: ' + receivedMessage)
 
 def serve():
