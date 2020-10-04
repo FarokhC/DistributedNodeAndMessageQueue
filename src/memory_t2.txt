@@ -1,0 +1,17 @@
+Server Started
+
+Total Message Transfer Run Time: 5.249499797821045 seconds
+Filename: serverC.py
+
+Line #    Mem usage    Increment   Line Contents
+================================================
+    31   24.613 MiB   24.613 MiB   @profile
+    32                             def serve():
+    33   25.238 MiB    0.625 MiB       server = grpc.server(futures.ThreadPoolExecutor(max_workers=2))
+    34   25.273 MiB    0.035 MiB       RL1_pb2_grpc.add_MessagePassingServicer_to_server(ServerC(), server)
+    35   25.352 MiB    0.078 MiB       server.add_insecure_port('[::]:50052')
+    36   25.418 MiB    0.066 MiB       server.start()
+    37   25.418 MiB    0.000 MiB       print("Server Started")
+    38   26.230 MiB    0.812 MiB       server.wait_for_termination()
+
+
